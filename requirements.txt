@@ -3,7 +3,3 @@ pandas
 scikit-learn
 matplotlib
 streamlit
-jsonschema-specifications
-gitpython
-jsonschema
-altair
